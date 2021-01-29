@@ -1,0 +1,85 @@
+{
+    "Students": [
+        {
+            "Rollno": "1001",
+            "Name": "Rahul Mishra",
+            "Gender": "Male",
+            "address": "Delhi",
+            "Phone no": "981653456",
+            "Batch": "Batch 2020",
+            "Hostel": true
+        },
+        {
+            "Rollno": "1002",
+            "Name": "Mani Prabhakar",
+            "Gender": "Male",
+            "address": "Bombay",
+            "Phone no": "9856745768",
+            "Batch": "Batch 2020",
+            "Hostel": true
+        },
+        {
+            "Rollno": "1003",
+            "Name": "Sunil Saini",
+            "Gender": "Male",
+            "address": "Lucknow",
+            "Phone no": "345634756",
+            "Batch": "Batch 2020",
+            "Hostel": true
+        },
+        {
+            "Rollno": "1124",
+            "Name": "Sumit",
+            "Gender": "Male",
+            "address": "Delhi",
+            "Phone no": "0987654321",
+            "Batch": "Batch 2020",
+            "Hostel": true
+        },
+        {
+            "Rollno": "1234",
+            "Name": "qwerty",
+            "Gender": "Female",
+            "address": "Chd",
+            "Phone no": "123456789",
+            "Batch": "Batch 2019",
+            "Hostel": true
+        },
+        {
+            "Rollno": "3941",
+            "Name": "Zakir",
+            "Gender": "Male",
+            "address": "Mumbai",
+            "Phone no": "9999999990",
+            "Batch": "Batch 2018",
+            "Hostel": false
+        },
+        {
+            "Rollno": "4554",
+            "Name": "Anajli",
+            "Gender": "Female",
+            "address": "Chd",
+            "Phone no": "4567890123",
+            "Batch": "Batch 2018",
+            "Hostel": false
+        },
+        {
+            "Rollno": "3535",
+            "Name": "Srishti",
+            "Gender": "Female",
+            "address": "H.P.",
+            "Phone no": "1234567890",
+            "Batch": "Batch 2020",
+            "Hostel": true
+        },
+        {
+            "Rollno": "qwerty",
+            "Name": "qwerty",
+            "Gender": "Female",
+            "address": "qwerty",
+            "Phone no": "qwerty",
+            "Batch": "Batch 2018",
+            "Hostel": true
+        }
+    ]
+}
